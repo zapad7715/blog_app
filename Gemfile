@@ -13,6 +13,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # New gems
 gem 'rails-i18n', '~> 4.0.0'
+gem 'bootstrap-sass', '~> 3.3.4.1'
+gem 'autoprefixer-rails', '~> 5.2.0'
 
 group :development, :test do
   gem 'rspec-rails', '3.2.3'

@@ -1,5 +1,9 @@
 en:                                                            
+  author:
+    authors: "Authors"
   article:
     new_article: "New Article"
     create_new_article: "Create a new article"
     title: 'Title'
+    body: 'Body'
+    create_article: 'Create Article'

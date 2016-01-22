@@ -17,7 +17,7 @@ gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'autoprefixer-rails', '~> 5.2.0'
 
 group :development, :test do
-  gem 'rspec-rails', '3.2.3'
+  gem 'rspec-rails'
   gem 'byebug'
 end
 

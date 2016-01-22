@@ -1,9 +1,15 @@
 en:                                                            
   author:
-    authors: "Authors"
+    authors: 'Authors'
   article:
-    new_article: "New Article"
-    create_new_article: "Create a new article"
     title: 'Title'
     body: 'Body'
+    new_article: 'New Article'
     create_article: 'Create Article'
+    create_new_article: 'Create a new article'
+    add_new_article: 'Adding New Article'
+    flash:
+      success_create: 'Article has been created'
+    placeholder:
+      title: 'Title of article'
+      body: 'Body of article'
